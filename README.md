@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aditipatra
-- 👀 I’m interested in Machine Learning and Data Science
+- 👀 I’m interested in Web development, Machine Learning and Data Science
 - 📫 How to reach me : www.linkedin.com/in/aditi-patra
 
 <!---
